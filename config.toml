@@ -1,4 +1,4 @@
-baseurl = "https://mirocillik.github.io/infinity-group"
+baseurl = "https://mirocillik.github.io/infinity-group/"
 title = "Infinity Group"
 theme = "hugo-universal-theme"
 #themesDir = "../.."
