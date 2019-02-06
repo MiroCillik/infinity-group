@@ -3567,9 +3567,9 @@ a.list-group-item.active > .badge,
 }
 
 .icon-works-cutting {
-  background-image: url('../img/cutting.svg');
+  background-image: url('../img/works/cutting.svg');
 }
 
 .icon-works-bending {
-  background-image: url('../img/bending.svg');
+  background-image: url('../img/works/bending.svg');
 }
