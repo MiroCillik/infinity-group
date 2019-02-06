@@ -43,10 +43,6 @@
   </url>
   
   <url>
-    <loc>https://mirocillik.github.io/infinity-group/our-company/</loc>
-  </url>
-  
-  <url>
     <loc>https://mirocillik.github.io/infinity-group/tags/go/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
@@ -80,6 +76,10 @@
     <loc>https://mirocillik.github.io/infinity-group/categories/lorem/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mirocillik.github.io/infinity-group/our-company/</loc>
   </url>
   
   <url>

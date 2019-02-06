@@ -158,10 +158,10 @@ paginate = 10
 [params.see_more]
     enable = true
     icon = "fa fa-file-code-o"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
+    title = "Využite naše služby!"
+    subtitle = "Príjmame zákazky od niekoľko kusov až po milióny."
+    link_url = "/contact"
+    link_text = "Kontaktovať"
 
 [params.clients]
     enable = true
