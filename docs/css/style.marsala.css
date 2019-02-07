@@ -3573,3 +3573,11 @@ a.list-group-item.active > .badge,
 .icon-works-bending {
   background-image: url('../img/works/bending.svg');
 }
+
+.icon-works-3d-cutting {
+  background-image: url('../img/works/3d-cutting.svg');
+}
+
+.icon-works-cnc-milling {
+  background-image: url('../img/works/cnc-milling-2.svg');
+}
