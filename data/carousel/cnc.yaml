@@ -1,4 +1,10 @@
 weight: 5
-title: "CNC vertikálne obrabacie centrum Pinnacle"
-description: ""
+title: "Pinnacle CNC"
+description: >
+  <ul class="list-style-none">
+    <li>CNC vertikálne obrábacie centrum </li>
+    <li>Vysoko stabilná presnosť hriadeľa poháňaného 5 koňovým motor.</li>
+    <li>The X, Y and Z axes slideways and top of working surface are hardened and ground.</li>
+    <li>Square slideways on column and knee.</li>
+  <ul>
 image: "img/carousel/cnc.jpg"

@@ -310,10 +310,16 @@ ul.list-style-none {
   /*font-weight: bold;*/
   letter-spacing: 0.06em;
   border-top: solid 5px transparent;
-  font-size: 18px;
+  /*font-size: 18px;*/
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding-left: 0;
+  padding-right: 0;
 }
 .navbar ul.nav > li > a:hover {
-  border-top: solid 5px #955251;
+  /*border-bottom: solid 5px #955251;*/
+  border-bottom: solid 7px #555555;
 }
 .navbar ul.nav > li.active > a,
 .navbar ul.nav > li.open > a {
@@ -1144,7 +1150,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .home-carousel {
   position: relative;
-  background: url('../img/photogrid.jpg') center center repeat;
+  background: url('../img/fixed-background-2.jpg') center center repeat;
   background-size: cover;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
@@ -1156,7 +1162,8 @@ fieldset[disabled] .btn-template-primary.active {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #211212;
+  /*background: #211212; darker*/
+  background: #301313;
   opacity: 0.9;
   filter: alpha(opacity=90);
 }
@@ -2034,7 +2041,7 @@ fieldset[disabled] .btn-template-primary.active {
   transition: all 0.2s ease-out;
 }
 @media (max-width: 767px) {
-  #blog-listing-big .post .image img.img-responsive,
+  #blog-listing-big .post .image img..navbar-nav > li > a,
   #blog-homepage .post .image img.img-responsive {
     min-width: 100%;
   }
@@ -2926,7 +2933,7 @@ fieldset[disabled] .btn-template-primary.active {
   .navbar > .container .navbar-brand,
   .navbar > .container-fluid .navbar-brand {
     margin-left: -15px;
-    margin-top: 20px;
+    /*margin-top: 20px;*/
   }
 }
 .navbar-toggle {
@@ -2972,10 +2979,11 @@ fieldset[disabled] .btn-template-primary.active {
   }
   .navbar-nav > li {
     float: left;
+    padding: 0 15px;
   }
   .navbar-nav > li > a {
     padding-top: 35px;
-    padding-bottom: 35px;
+    padding-bottom: 3px;
   }
   .navbar-nav.navbar-right:last-child {
     margin-right: -15px;
@@ -3059,7 +3067,7 @@ fieldset[disabled] .btn-template-primary.active {
   background-color: #ffffff;
   border-color: #cccccc;
   border-bottom: none;
-  height: 100px;
+  height: 120px;
 }
 .navbar-default .navbar-brand {
   color: #555555;
@@ -3078,7 +3086,7 @@ fieldset[disabled] .btn-template-primary.active {
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
   color: #555555;
-  background-color: #c08c8c;
+  /*background-color: #c08c8c;*/
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,

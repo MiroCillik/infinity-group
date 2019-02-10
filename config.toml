@@ -20,30 +20,25 @@ paginate = 10
 # Main menu
 
 [[menu.main]]
-    name = "Home"
-    url  = "/"
-    weight = 1
-
-[[menu.main]]
     name = "Naša Spoločnosť"
     url  = "/our-company"
-    weight = 2
+    weight = 1
 
 [[menu.main]]
     name = "Novinky"
     url  = "/news/"
-    weight = 3
+    weight = 2
 
 [[menu.main]]
     name = "Produkty"
     identifier = "products"
     url  = "/products/"
-    weight = 4
+    weight = 3
 
 [[menu.main]]
     name = "Kontakt"
     url  = "/contact/"
-    weight = 5
+    weight = 4
 
 # Top bar social links menu
 
