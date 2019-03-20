@@ -2,3 +2,4 @@ weight: 3
 name: "CNC Opracovanie"
 icon: "icon-works icon-works-cnc-milling"
 description: "Pomocou CNC centra dokončujeme vypálené dielce podľa potrieb zákazníka."
+url: "services#cnc-opracovanie"
