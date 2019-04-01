@@ -10,8 +10,29 @@
   min-height: 230px;
 }
 
-.navbar-default {
-  height: 100px;
+.navbar-brand {
+  height: 62px;
+}
+
+@media (max-width: 1200px) {
+  .navbar ul.nav > li > a {
+    padding-left: 0;
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .navbar ul.nav > li > a {
+    padding-left: 0;
+    padding-top: 18px;
+    font-size: 12px;
+  }
+}
+
+@media (min-width: 1000px) {
+  .navbar-brand {
+    height: 100px;
+  }
 }
 
 .home-carousel .owl-item .img-responsive {
@@ -24,24 +45,3 @@ h2 {
   padding-top: 150px;
   margin-top: -150px;
 }
-
-/* Dark theme */
-/*.home-carousel {*/
-  /*background: none; !important;*/
-/*}*/
-
-/*.home-carousel .dark-mask {*/
-  /*background: none; !important;*/
-/*}*/
-
-/*.navbar-default .navbar-nav > li > a {*/
-  /*color: #ffffff;*/
-/*}*/
-
-/*.navbar-default {*/
-  /*background-color: #313030;*/
-/*}*/
-
-/*.home-carousel h1, .home-carousel h2, .home-carousel h3, .home-carousel p, .home-carousel ul {*/
-  /*color: #555555;*/
-/*}*/
