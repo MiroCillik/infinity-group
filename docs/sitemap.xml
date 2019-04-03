@@ -3,34 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mirocillik.github.io/infinity-group/blog/2015/10/10/migrate-from-jekyll/</loc>
+    <loc>https://mirocillik.github.io/infinity-group/news/migrate-from-jekyll/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mirocillik.github.io/infinity-group/blog/2015/10/02/linked-post/</loc>
+    <loc>https://mirocillik.github.io/infinity-group/news/linked-post/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mirocillik.github.io/infinity-group/blog/2015/09/17/go-is-for-lovers/</loc>
+    <loc>https://mirocillik.github.io/infinity-group/news/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mirocillik.github.io/infinity-group/blog/2015/08/03/hugo-is-for-lovers/</loc>
+    <loc>https://mirocillik.github.io/infinity-group/news/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mirocillik.github.io/infinity-group/blog/2015/06/24/creating-a-new-theme/</loc>
+    <loc>https://mirocillik.github.io/infinity-group/news/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mirocillik.github.io/infinity-group/blog/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -83,13 +77,19 @@
   </url>
   
   <url>
-    <loc>https://mirocillik.github.io/infinity-group/categories/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://mirocillik.github.io/infinity-group/news/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mirocillik.github.io/infinity-group/tags/programming/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mirocillik.github.io/infinity-group/categories/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -114,6 +114,10 @@
     <loc>https://mirocillik.github.io/infinity-group/tags/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mirocillik.github.io/infinity-group/machinery/</loc>
   </url>
   
   <url>

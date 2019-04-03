@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Infinity Group</title>
-    <link>https://mirocillik.github.io/infinity-group/</link>
-    <description>Recent content on Infinity Group</description>
+    <title>News on Infinity Group</title>
+    <link>https://mirocillik.github.io/infinity-group/news/</link>
+    <description>Recent content in News on Infinity Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
     
-	<atom:link href="https://mirocillik.github.io/infinity-group/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mirocillik.github.io/infinity-group/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -64,48 +64,6 @@ Follow the following steps:
       <guid>https://mirocillik.github.io/infinity-group/news/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>Kontakt</title>
-      <link>https://mirocillik.github.io/infinity-group/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mirocillik.github.io/infinity-group/contact/</guid>
-      <description>We are here to help you Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
-Please feel free to contact us, our customer service center is working for you 24&amp;frasl;7.</description>
-    </item>
-    
-    <item>
-      <title>Naša Spoločnosť</title>
-      <link>https://mirocillik.github.io/infinity-group/our-company/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mirocillik.github.io/infinity-group/our-company/</guid>
-      <description>Kto sme? Infinity group, a.s. je výrobcom tvarových výpalkov a detailov pre stavebné a banské mechanizmy, koľajové vozidlá a manipulačnú techniku.
-Čo robíme? Výpalky sú vyrábané podľa výkresovej dokumentácie zákazníka spracované na CNC páliacich strojoch, sú dodávané s odstránenou truskou, opravenými zápalmi a materiálovým atestom. V prípade potreby je možné zabezpečiť ich tryskanie, vŕtanie, ohýbanie a strojné opracovanie.
-Kde nás najdete? V novo postavenej hale v areály priemyselného parku v obci Vígľaš s rozlohou 13 000 m2 sú inštalované najmodernejšie technológie na spracovanie plechov, vďaka ktorým je možné dosahovať vysokú produktivitu práce.</description>
-    </item>
-    
-    <item>
-      <title>Služby</title>
-      <link>https://mirocillik.github.io/infinity-group/services/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mirocillik.github.io/infinity-group/services/</guid>
-      <description>Poskytované služby Poskytujeme širokú škálu služieb v oblasti obrábania kovových materiálov:
-Rezanie Fiberlaserové rezacie centrum MSF Fiberlaserové rezacie centrum MSF od výrobcu MicroStep s.r.o. je určené na presné delenie konštrukčnej ocele, nerezu, hliníka a iných reflexných materiálov ako napr. meď a mosadz. pevnolátkovým laserom s 5kW zdrojom. Stroj je vybavený rotačnou 3D hlavou s možnosťou rezania pod uhlom do 45°.
-   Maximálna hrúbka deleného materiálu:      Konštrukčná oceľ 20 mm   Nerezová oceľ 15 mm   Hliník 20 mm   Mosadz 8 mm   Meď 8 mm       Rozmery pracovného stola      Šírka 2 500 mm   Dĺžka 9 000 mm    Súčasťou Fiberlaserového rezacieho centra je CNC zariadenie na rezanie rúr a profilov, ktoré umožňuje rezanie rúr s priemerom od 20 do 500 mm a profilov do 300x300 mm s dĺžkou do 6 000 mm.</description>
-    </item>
-    
-    <item>
-      <title>Technológie</title>
-      <link>https://mirocillik.github.io/infinity-group/machinery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mirocillik.github.io/infinity-group/machinery/</guid>
-      <description>Fiberlaserové rezacie centrum MSF Fiberlaserové rezacie centrum MSF od výrobcu MicroStep s.r.o. je určené na presné delenie konštrukčnej ocele, nerezu, hliníka a iných reflexných materiálov ako napr. meď a mosadz. pevnolátkovým laserom s 5kW zdrojom. Stroj je vybavený rotačnou 3D hlavou s možnosťou rezania pod uhlom do 45°.
-   Maximálna hrúbka deleného materiálu:      Konštrukčná oceľ 20 mm   Nerezová oceľ 15 mm   Hliník 20 mm   Mosadz 8 mm   Meď 8 mm       Rozmery pracovného stola      Šírka 2 500 mm   Dĺžka 9 000 mm    Súčasťou Fiberlaserového rezacieho centra je CNC zariadenie na rezanie rúr a profilov, ktoré umožňuje rezanie rúr s priemerom od 20 do 500 mm a profilov do 300x300 mm s dĺžkou do 6 000 mm.</description>
     </item>
     
   </channel>

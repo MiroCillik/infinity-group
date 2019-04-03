@@ -157,10 +157,10 @@ paginate = 10
 
 [params.see_more]
     enable = true
-    icon = "fa fa-file-code-o"
+    icon = "fa fa-file"
     title = "Využite naše služby!"
     subtitle = "Príjmame zákazky od niekoľko kusov až po milióny."
-    link_url = "/contact"
+    link_url = "contact"
     link_text = "Kontaktovať"
 
 [params.clients]
