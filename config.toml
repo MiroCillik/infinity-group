@@ -24,10 +24,10 @@ paginate = 10
     url  = "/our-company"
     weight = 1
 
-[[menu.main]]
-    name = "Novinky"
-    url  = "/news/"
-    weight = 2
+#[[menu.main]]
+#    name = "Novinky"
+#    url  = "/news/"
+#    weight = 2
 
 [[menu.main]]
     name = "Služby"
@@ -43,6 +43,33 @@ paginate = 10
 [[menu.main]]
     name = "Kontakt"
     url  = "/contact/"
+    weight = 5
+
+# Footer menu
+[[menu.footer]]
+    name = "Naša Spoločnosť"
+    url  = "/our-company"
+    weight = 1
+
+[[menu.footer]]
+    name = "Služby"
+    identifier = "services"
+    url  = "/services/"
+    weight = 2
+
+[[menu.footer]]
+    name = "Technológie"
+    url  = "/machinery/"
+    weight = 3
+
+[[menu.footer]]
+    name = "Obchodné podmienky"
+    url  = "/terms-conditions/"
+    weight = 4
+
+[[menu.footer]]
+    name = "GDPR podmienky"
+    url  = "/gdpr/"
     weight = 5
 
 # Top bar social links menu
@@ -96,22 +123,19 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "mcillik@gmail.com"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+    about_us = "<p></p>"
     copyright = "Copyright (c) 2018 - 2019, Infinity Group a.s.; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     logo = "img/logo-infinity-7.png"
-    address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
-        <br>
-        <strong>Great Britain</strong>
+    address = """<p><strong>INFINITY GROUP a.s.</strong>
+        <br>Pstruša 813
+        <br>962 02 Vígľaš
+        <br><strong>Slovensko</strong>
       </p>
       """
     latitude = "-12.043333"
@@ -172,6 +196,6 @@ paginate = 10
     subtitle = ""
 
 [params.recent_posts]
-    enable = true
+    enable = false
     title = "Novinky"
     subtitle = ""
