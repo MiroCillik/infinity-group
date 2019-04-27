@@ -3,17 +3,21 @@
 {{ if gt (len .Site.Data.carousel) 0 }}
 <section>
     <div class="home-carousel">
-        <div class="dark-mask"></div>
         <div class="container">
             <div class="homepage owl-carousel">
                 {{ range sort .Site.Data.carousel "weight" }}
                 <div class="item">
                     <div class="row">
-                        <div class="col-sm-5 right">
-                            <h1>{{ .title }}</h1>
-                            {{ .description | safeHTML }}
-                        </div>
-                        <div class="col-sm-7">
+                        <!--<div class="col-sm-5 right">-->
+                            <!--<h1>{{ .title }}</h1>-->
+                            <!--{{ .description | safeHTML }}-->
+                        <!--</div>-->
+                        <div class="col-sm-12">
+                            <div class="owl-carousel-item-text">
+                                <h1>{{ .title }}</h1>
+                                <!--<p>{{ .description | safeHTML }}</p>-->
+                            </div>
+                            <div class="dark-mask"></div>
                             <img class="img-responsive" src="{{ .image }}" alt="">
                         </div>
                     </div>

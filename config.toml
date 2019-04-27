@@ -24,10 +24,10 @@ paginate = 10
     url  = "/our-company"
     weight = 1
 
-#[[menu.main]]
-#    name = "Novinky"
-#    url  = "/news/"
-#    weight = 2
+[[menu.main]]
+    name = "Novinky"
+    url  = "/news/"
+    weight = 2
 
 [[menu.main]]
     name = "Služby"
@@ -58,19 +58,29 @@ paginate = 10
     weight = 2
 
 [[menu.footer]]
-    name = "Technológie"
-    url  = "/machinery/"
+    name = "Novinky"
+    url  = "/news/"
     weight = 3
 
 [[menu.footer]]
-    name = "Obchodné podmienky"
-    url  = "/terms-conditions/"
+    name = "Technológie"
+    url  = "/machinery/"
     weight = 4
 
 [[menu.footer]]
-    name = "GDPR podmienky"
-    url  = "/gdpr/"
+    name = "Všeobecné obchodné podmienky"
+    url  = "/terms-conditions/"
     weight = 5
+
+[[menu.footer]]
+    name = "Reklamačné podmienky"
+    url  = "/return-conditions/"
+    weight = 6
+
+[[menu.footer]]
+    name = "GDPR"
+    url  = "/gdpr/"
+    weight = 7
 
 # Top bar social links menu
 
@@ -136,6 +146,10 @@ paginate = 10
         <br>Pstruša 813
         <br>962 02 Vígľaš
         <br><strong>Slovensko</strong>
+        <br>
+        <br>email: <a href="mailto:infinity@infinitygroup.sk">infinity@infinitygroup.sk</a>
+        <br>tel:
+
       </p>
       """
     latitude = "-12.043333"
@@ -196,6 +210,6 @@ paginate = 10
     subtitle = ""
 
 [params.recent_posts]
-    enable = false
+    enable = true
     title = "Novinky"
     subtitle = ""
