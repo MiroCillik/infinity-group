@@ -43,10 +43,14 @@
 }
 
 .home-carousel .dark-mask {
-  opacity: 0.45;
+  opacity: 0.55;
   /*background: #955251;*/
   left: auto;
 }
+
+/*.home-carousel .dark-mask.dark-mask-2 {*/
+  /*opacity: 0.9;*/
+/*}*/
 
 .home-carousel .owl-carousel {
   padding-top: 0;
@@ -56,11 +60,17 @@
 .home-carousel .owl-item .img-responsive {
   /*padding-right: 4em;*/
   /*padding-left: 4em;*/
-  width: 1140px;
+  /*width: 1140px;*/
 }
 
 .owl-carousel .owl-item {
   height: 400px;
+}
+
+.owl-carousel .row {
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .owl-theme .owl-controls {
