@@ -14,6 +14,11 @@
   height: 62px;
 }
 
+.navbar ul.nav > li > a:hover, .navbar ul.nav > li > a:active {
+  border-top: solid 5px #C23465;
+  border-bottom: 0;
+}
+
 @media (max-width: 1200px) {
   .navbar ul.nav > li > a {
     padding-left: 0;
@@ -38,13 +43,14 @@
 /** carousel */
 .home-carousel {
   background-image: none;
-  background-color: rgba(48, 19, 19, 0.9);
+  background-color: #0F3A45;
+  /*background-color: rgba(48, 19, 19, 0.9);*/
   /*background-color: rgba(149, 82, 81, 1);*/
 }
 
 .home-carousel .dark-mask {
   opacity: 0.55;
-  /*background: #955251;*/
+  background: #0F3A45;
   left: auto;
 }
 
