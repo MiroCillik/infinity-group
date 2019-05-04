@@ -1,5 +1,49 @@
 /* your styles go here */
 
+a {
+  color: #8A1A49;
+  /*color: #EBE296;*/
+}
+
+a:hover, #footer a:active, #footer a:visited, #footer a:focus {
+  color: #C2346F;
+}
+
+#footer a {
+  color: #DBD386;
+  /*color: #EBE296;*/
+}
+
+#footer a:hover, #footer a:active, #footer a:visited, #footer a:focus {
+  color: #C7BC56;
+}
+
+#footer ul a:hover, #footer ul a:active, #footer ul a:visited, #footer ul a:focus {
+  color: #aaaaaa;
+}
+
+#footer {
+  background: #0F3C45;
+  padding: 50px 0;
+  color: #aaaaaa;
+}
+
+.btn-template-main {
+  color: #DBD386;
+  background-color: transparent;
+  border-color: #DBD386;
+}
+
+.btn-template-main:hover, .btn-template-main:focus, .btn-template-main:active, .btn-template-main.active {
+  background: #DBD386;
+  color: #ffffff;
+  border-color: #DBD386;
+}
+
+.heading h1, .heading h2, .heading h3, .heading h4, .heading h5 {
+  border-bottom: 5px solid #DBD386;
+}
+
 .box-image-text .image {
   min-height: 200px;
   max-height: 200px;
@@ -17,6 +61,10 @@
 .navbar ul.nav > li > a:hover, .navbar ul.nav > li > a:active {
   border-top: solid 5px #C23465;
   border-bottom: 0;
+}
+
+.box-simple .icon {
+  border-color: #C23465;
 }
 
 @media (max-width: 1200px) {
