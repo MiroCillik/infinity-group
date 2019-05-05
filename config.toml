@@ -115,7 +115,7 @@ paginate = 10
     defaultDescription = "Infintiy Group website"
 
     # Google Maps API key (if not set will default to not passing a key.)
-    googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
+    googleMapsApiKey = "AIzaSyAbxyc43gup7bG3wneA_sm7-LvcEQokrO4"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "marsala"
@@ -152,8 +152,9 @@ paginate = 10
 
       </p>
       """
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+    latitude = "48.5504092"
+    longitude = "19.3051745"
+    direction = "Infinity Gorup s.r.o, Pstruša 813, 962 02 Vígľaš, Slovakia"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"

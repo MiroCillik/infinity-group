@@ -9,6 +9,10 @@ a:hover, #footer a:active, #footer a:visited, #footer a:focus {
   color: #C2346F;
 }
 
+.navbar ul.nav > li > a {
+  padding-left: 0;
+}
+
 #footer a {
   color: #DBD386;
   /*color: #EBE296;*/
