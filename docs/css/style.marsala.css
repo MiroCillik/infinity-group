@@ -3574,7 +3574,9 @@ a.list-group-item.active > .badge,
   display: inline-block;
   width: 80px;
   height: 80px;
-  margin: 10px
+  margin: 10px;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .icon-works-cutting {
@@ -3594,7 +3596,7 @@ a.list-group-item.active > .badge,
 }
 
 .icon-works-sanding {
-  background-image: url('../img/works/sanding-3.svg');
+  background-image: url('../img/works/sandblasting.svg');
 }
 
 .icon-works-flattening {
