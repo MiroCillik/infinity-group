@@ -121,11 +121,11 @@ a:hover, #footer a:active, #footer a:visited, #footer a:focus {
   /*width: 1140px;*/
 }
 
-.owl-carousel .owl-item {
+.home-carousel .owl-carousel .owl-item {
   height: 400px;
 }
 
-.owl-carousel .row {
+.home-carousel .owl-carousel .row {
   height: 400px;
   background-position: center;
   background-repeat: no-repeat;
