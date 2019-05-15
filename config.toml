@@ -78,7 +78,7 @@ paginate = 10
     weight = 6
 
 [[menu.footer]]
-    name = "GDPR"
+    name = "Ochrana osobných údajov"
     url  = "/gdpr/"
     weight = 7
 

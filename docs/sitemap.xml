@@ -73,6 +73,10 @@
   </url>
   
   <url>
+    <loc>https://mirocillik.github.io/infinity-group/cookies/</loc>
+  </url>
+  
+  <url>
     <loc>https://mirocillik.github.io/infinity-group/our-company/</loc>
   </url>
   
@@ -80,6 +84,10 @@
     <loc>https://mirocillik.github.io/infinity-group/news/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mirocillik.github.io/infinity-group/gdpr/</loc>
   </url>
   
   <url>
@@ -124,6 +132,10 @@
     <loc>https://mirocillik.github.io/infinity-group/tags/theme/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mirocillik.github.io/infinity-group/terms-and-conditions/</loc>
   </url>
   
 </urlset>
