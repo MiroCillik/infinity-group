@@ -1,32 +1,25 @@
 {{ if isset .Site.Params "carousel" }}
 {{ if .Site.Params.carousel.enable }}
 {{ if gt (len .Site.Data.carousel) 0 }}
+
+{{ .Scratch.Set "baseUrl" .Site.BaseURL }}
 <section>
     <div class="home-carousel">
-        <!--<div class="dark-mask dark-mask-2"></div>-->
-        <!--<div class="container">-->
-            <div class="homepage owl-carousel">
-                {{ range sort .Site.Data.carousel "weight" }}
-                <div class="item">
-                    <div class="row" style="background-image: url('{{ .image }}')">
-                        <!--<div class="col-sm-5 right">-->
-                            <!--<h1>{{ .title }}</h1>-->
-                            <!--{{ .description | safeHTML }}-->
-                        <!--</div>-->
-                        <!--<div class="col-sm-12">-->
-                            <div class="owl-carousel-item-text">
-                                <h1>{{ .title }}</h1>
-                                <!--<p>{{ .description | safeHTML }}</p>-->
-                            </div>
-                            <div class="dark-mask"></div>
-                            <!--<img class="img-responsive" src="{{ .image }}" alt="">-->
-                        <!--</div>-->
+        <div class="homepage owl-carousel">
+            {{ range sort .Site.Data.carousel "weight" }}
+            <div class="item">
+                <div class="row" style="background-image: url('{{ .image }}')">
+                    <div class="owl-carousel-item-text">
+                        <a href="{{ $.Site.BaseURL }}{{ .url }}">
+                            <h1>{{ .title }}</h1>
+                        </a>
+                        <!--<p>{{ .description | safeHTML }}</p>-->
                     </div>
+                    <div class="dark-mask"></div>
                 </div>
-                {{ end }}
             </div>
-            <!-- /.project owl-slider -->
-        <!--</div>-->
+            {{ end }}
+        </div>
     </div>
 </section>
 {{ end }}

@@ -103,7 +103,8 @@ a:hover, #footer a:active, #footer a:visited, #footer a:focus {
 .home-carousel .dark-mask {
   opacity: 0.55;
   background: #0F3A45;
-  left: auto;
+  left: 0;
+  right: 0;
 }
 
 /*.home-carousel .dark-mask.dark-mask-2 {*/
