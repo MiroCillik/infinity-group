@@ -132,6 +132,10 @@ a:hover, #footer a:active, #footer a:visited, #footer a:focus {
   background-repeat: no-repeat;
 }
 
+.home-carousel h1 {
+  font-size: 32px;
+}
+
 .owl-theme .owl-controls {
   /* margin-top: -110px; */
   text-align: center;
@@ -145,8 +149,9 @@ a:hover, #footer a:active, #footer a:visited, #footer a:focus {
 
 .owl-carousel-item-text {
   position: absolute;
-  top: 60px;
+  top: 150px;
   text-align: center;
   width: 100%;
   z-index: 3;
+  left: 0;
 }

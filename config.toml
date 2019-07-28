@@ -30,9 +30,9 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
-    name = "Služby"
-    identifier = "services"
-    url  = "/services/"
+    name = "Produkty"
+    identifier = "products"
+    url  = "/products/"
     weight = 3
 
 [[menu.main]]
@@ -52,9 +52,9 @@ paginate = 10
     weight = 1
 
 [[menu.footer]]
-    name = "Služby"
-    identifier = "services"
-    url  = "/services/"
+    name = "Produkty"
+    identifier = "products"
+    url  = "/products/"
     weight = 2
 
 [[menu.footer]]
