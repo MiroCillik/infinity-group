@@ -134,6 +134,12 @@ a:hover, #footer a:active, #footer a:visited, #footer a:focus {
 
 .home-carousel h1 {
   font-size: 32px;
+  /*letter-spacing: 0.08em;*/
+  opacity: 0.9;
+}
+
+.home-carousel h1:hover {
+  opacity: 1;
 }
 
 .owl-theme .owl-controls {
@@ -154,4 +160,13 @@ a:hover, #footer a:active, #footer a:visited, #footer a:focus {
   width: 100%;
   z-index: 3;
   left: 0;
+}
+
+.owl-carousel-item-text a:hover {
+  text-decoration: none;
+}
+
+#heading-breadcrumbs {
+  background-image: url('../img/diamond-plate-5.gif');
+  border-top: 1px solid #ddd;
 }
