@@ -20,4 +20,11 @@
 <script src="{{ .Site.BaseURL }}js/owl.carousel.min.js"></script>
 
 <!-- image gallery -->
-<script src="{{ .Site.BaseURL }}/js/load-photoswipe.js"></script>
+<script src="{{ .Site.BaseURL }}js/simple-lightbox.js"></script>
+
+{{ if eq .Name "Produkty" }}
+<script>
+  var gallery = $('.image-gallery a').simpleLightbox();
+</script>
+{{ end }}
+

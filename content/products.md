@@ -1,5 +1,4 @@
 +++
 title = "Produkty"
+id = "products"
 +++
-
-{{< gallery dir="/img/product-images/" />}}`

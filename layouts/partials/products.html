@@ -1,0 +1,27 @@
+<div class="container" id="products">
+
+    {{ .Scratch.Set "baseUrl" .Site.BaseURL }}
+    {{ $albumUrl := print "/static/img/products" }}
+    <section>
+        <div class="row">
+            <div class="image-gallery">
+            {{ range readDir $albumUrl }}
+                {{ if not (eq .Name "thumbs") }}
+                    {{ $imgURL := print "img/products/" .Name | absURL }}
+                    {{ $thumbName := replace .Name ".jpg" "" }}
+                    {{ $thumbURL := print "img/products/thumbs/"  $thumbName "-thumb.jpg" | absURL }}
+
+                    <div class="col-md-4">
+                        <div class="thumb">
+                            <a href="{{ $imgURL }}">
+                                <img src="{{ $thumbURL }}" />
+                            </a>
+                        </div>
+                    </div>
+                {{ end }}
+            {{ end }}
+            </div>
+        </div>
+    </section>
+
+</div>

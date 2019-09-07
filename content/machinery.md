@@ -1,5 +1,6 @@
 +++
 title = "Technológie"
+id = "machinery"
 +++
 
 ### Fiberlaserové rezacie centrum MSF 
