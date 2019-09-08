@@ -1,0 +1,21 @@
+{{ .Scratch.Set "baseUrl" .Site.BaseURL }}
+{{ $folder := print "/static/img/machinery/" .File }}
+{{ $albumUrl := print "img/machinery/" .File }}
+<section>
+    <div class="image-gallery">
+        {{ range readDir $folder }}
+        {{ if not (eq .Name "thumbs") }}
+        {{ $imgURL := print $albumUrl "/" .Name | absURL }}
+
+        {{ $thumbName := replace .Name ".jpg" "" }}
+        {{ $thumbURL := print $albumUrl "/thumbs/"  $thumbName "-thumb.jpg" | absURL }}
+
+        <div class="thumb">
+            <a href="{{ $imgURL }}">
+                <img src="{{ $imgURL }}" />
+            </a>
+        </div>
+        {{ end }}
+        {{ end }}
+    </div>
+</section>

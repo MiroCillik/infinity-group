@@ -673,7 +673,13 @@ Liquid::Template.register_tag('image', Jekyll::ImageTag)
 
 <script src="https://mirocillik.github.io/infinity-group/js/simple-lightbox.js"></script>
 
-
+<script>
+    $(document).ready(function(){
+        if($('.image-gallery').length){
+            var gallery = $('.image-gallery a').simpleLightbox();
+        }
+    });
+</script>
 
 
 

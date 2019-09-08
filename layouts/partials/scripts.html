@@ -22,9 +22,11 @@
 <!-- image gallery -->
 <script src="{{ .Site.BaseURL }}js/simple-lightbox.js"></script>
 
-{{ if eq .Name "Produkty" }}
 <script>
-  var gallery = $('.image-gallery a').simpleLightbox();
+    $(document).ready(function(){
+        if($('.image-gallery').length){
+            var gallery = $('.image-gallery a').simpleLightbox();
+        }
+    });
 </script>
-{{ end }}
 

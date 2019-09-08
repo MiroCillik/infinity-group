@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technológie on Infinity Group</title>
+    <link>https://mirocillik.github.io/infinity-group/machinery/</link>
+    <description>Recent content in Technológie on Infinity Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://mirocillik.github.io/infinity-group/machinery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CNC Plazmové rezacie centrum SPLR s rotátorom</title>
+      <link>https://mirocillik.github.io/infinity-group/machinery/plasma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mirocillik.github.io/infinity-group/machinery/plasma/</guid>
+      <description>&lt;p&gt;Vysokovýkonné plazmové rezacie centrum SPLR od Microstep s.r.o. je vhodné pre rezanie plechov, rúr a profilov.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CNC ohraňovací lis</title>
+      <link>https://mirocillik.github.io/infinity-group/machinery/ohranovaci-lis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mirocillik.github.io/infinity-group/machinery/ohranovaci-lis/</guid>
+      <description>Ohýbanie dielcov podľa výkresovej dokumentácie zákazníka je zabezpečené CNC hydraulickým ohraňovacím lisom Ermaksan Speed Bend s max. dĺžkou ohybu 4 100 mm a silou 4 000 kN.</description>
+    </item>
+    
+    <item>
+      <title>CNC rezacie centrum CombiCut s vŕtacou hlavou a rotátorom</title>
+      <link>https://mirocillik.github.io/infinity-group/machinery/combicut/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mirocillik.github.io/infinity-group/machinery/combicut/</guid>
+      <description>&lt;p&gt;CNC rezacie centrum Combicut je určené na rezanie materiálu autogénom až do hrúbok 300 mm.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CNC rezací stroj Oxycut </title>
+      <link>https://mirocillik.github.io/infinity-group/machinery/oxycut/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mirocillik.github.io/infinity-group/machinery/oxycut/</guid>
+      <description>&lt;p&gt;Je presné a výkonné zariadenie určené na rezanie kovových materiálov autogénovým horákom.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CNC vertikálne obrábacie centrum Pinnacle</title>
+      <link>https://mirocillik.github.io/infinity-group/machinery/pinnacle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mirocillik.github.io/infinity-group/machinery/pinnacle/</guid>
+      <description>Vertikálne obrábacie centrum Pinnacle umožňuje opracovanie dielov s max. rozmerom 680 x 1280 mm. Vysokoproduktívny stroj s upínacím kužeľom ISO 40, zásobníkom náradia na 24 ks, obrobkovou a nástrojovou sondou, dosahuje otáčky vretena až do 10000 ot/min.</description>
+    </item>
+    
+    <item>
+      <title>Fiberlaserové rezacie centrum MSF</title>
+      <link>https://mirocillik.github.io/infinity-group/machinery/fiber-laser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mirocillik.github.io/infinity-group/machinery/fiber-laser/</guid>
+      <description>&lt;p&gt;Fiberlaserové rezacie centrum MSF od výrobcu MicroStep s.r.o. je určené na presné delenie konštrukčnej ocele, nerezu, hliníka a iných reflexných materiálov ako napr. meď a mosadz pevnolátkovým laserom s 5kW zdrojom.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Priebežný tryskací box RB 2000</title>
+      <link>https://mirocillik.github.io/infinity-group/machinery/tryskanie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mirocillik.github.io/infinity-group/machinery/tryskanie/</guid>
+      <description>Tryskanie materiálu a výrobkov sa vykonáva automatickým priebežným tryskacím zariadením RB 2000.
+Maximálna šírka tryskaného materiálu 2 000 mm
+Maximálna dĺžka tryskaného materiálu 12 000 mm
+Maximálna výška tryskaného materiálu 400 mm
+Počet tryskacích hláv 4</description>
+    </item>
+    
+    <item>
+      <title>Rovnací lis HRL 400</title>
+      <link>https://mirocillik.github.io/infinity-group/machinery/hrl400/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mirocillik.github.io/infinity-group/machinery/hrl400/</guid>
+      <description>Lis HRL 400 je určený pre rovnanie plechov, výpalkov, zvarencov a profilov.
+šírka stola 2000 mm
+dĺžka stola 6000 mm
+zdvih rovnacieho valca 700 mm
+sila 4 000 kN</description>
+    </item>
+    
+  </channel>
+</rss>

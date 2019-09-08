@@ -1,4 +1,3 @@
 +++
 title = "Technológie"
-id = "machinery"
 +++
