@@ -31,7 +31,8 @@
                         </div>
                         <!-- /#post-content -->
 
-                        <a class="btn" href=""><-- Späť na zoznam</a>
+                        {{ $machineryPage := .Site.GetPage "machinery" }}
+                        <a class="btn" href="{{ $machineryPage.URL }}"><-- Späť na zoznam</a>
 
                     </div>
                     <!-- /#blog-post -->

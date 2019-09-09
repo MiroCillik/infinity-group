@@ -1,6 +1,7 @@
 +++
 title = "Fiberlaserové rezacie centrum MSF"
 id = "machinery"
+banner = "/img/machinery/fiber-laser/laser.jpg"
 +++ 
 
 Fiberlaserové rezacie centrum MSF od výrobcu MicroStep s.r.o. je určené na presné delenie konštrukčnej ocele, nerezu, hliníka a iných reflexných materiálov ako napr. meď a mosadz pevnolátkovým laserom s 5kW zdrojom. <!--more--> Stroj je vybavený rotačnou 3D hlavou s možnosťou rezania pod uhlom do 45°.  
