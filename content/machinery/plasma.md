@@ -1,5 +1,6 @@
 +++
 title = "CNC Plazmové rezacie centrum SPLR s rotátorom"
+banner = "/img/machinery/plasma/plasma.jpg"
 +++
 
 Vysokovýkonné plazmové rezacie centrum SPLR od Microstep s.r.o. je vhodné pre rezanie plechov, rúr a profilov. 

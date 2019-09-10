@@ -1,10 +1,8 @@
 weight: 4
 title: "Oxycut"
-url: "machinery#cnc-rezací-stroj-oxycut"
+url: "machinery/oxycut"
 description: >
   <ul class="list-style-none">
     <li>CNC rezací stroj</li>
-    <li>gdgdgd</li>
-    <li>ggfgfg</li>
   </ul>
-image: "img/carousel/oxycut-3.jpg"
+image: "img/carousel/oxycut.jpg"

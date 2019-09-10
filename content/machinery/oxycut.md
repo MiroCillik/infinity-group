@@ -1,5 +1,6 @@
 +++
 title = "CNC rezací stroj Oxycut "
+banner = "/img/machinery/oxycut/oxycut.jpg"
 +++
 
 Je presné a výkonné zariadenie určené na rezanie kovových materiálov autogénovým horákom. 

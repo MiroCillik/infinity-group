@@ -9,7 +9,7 @@
             <div class="row">
 		{{ end }}
 				<div class="col-md-4">
-                    <a href="{{ .Site.BaseURL}}{{ $element.url }}">
+                    <!--<a href="{{ .Site.BaseURL}}{{ $element.url }}">-->
                         <div class="box-simple">
                             <div class="icon">
                                 <i class="{{ .icon }}"></i>
@@ -17,7 +17,7 @@
                             <h3>{{ $element.name }}</h3>
                             <p>{{ $element.description | markdownify }}</p>
                         </div>
-                    </a>
+                    <!--</a>-->
                 </div>
 		{{ if or (eq (mod $index 3) 2) (eq $index (sub (len $.Site.Data.features) 1 )) }}
 			</div>
