@@ -1,5 +1,6 @@
 +++
 title = "Priebežný tryskací box RB 2000"
+banner = "/img/machinery/tryskanie/tryskanie.jpg"
 +++
 
 Tryskanie materiálu a výrobkov sa vykonáva automatickým priebežným tryskacím zariadením RB 2000. 
