@@ -3,16 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mirocillik.github.io/infinity-group/categories/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mirocillik.github.io/infinity-group/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mirocillik.github.io/infinity-group/news/mame-nove-stranky/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mirocillik.github.io/infinity-group/machinery/plasma/</loc>
+    <loc>https://mirocillik.github.io/infinity-group/news/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mirocillik.github.io/infinity-group/categories/starting/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mirocillik.github.io/infinity-group/tags/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mirocillik.github.io/infinity-group/tags/theme/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://mirocillik.github.io/infinity-group/machinery/ohranovaci-lis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mirocillik.github.io/infinity-group/machinery/plasma/</loc>
   </url>
   
   <url>
@@ -28,18 +58,7 @@
   </url>
   
   <url>
-    <loc>https://mirocillik.github.io/infinity-group/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://mirocillik.github.io/infinity-group/machinery/fiber-laser/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mirocillik.github.io/infinity-group/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -48,12 +67,6 @@
   
   <url>
     <loc>https://mirocillik.github.io/infinity-group/our-company/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mirocillik.github.io/infinity-group/news/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -73,24 +86,7 @@
   </url>
   
   <url>
-    <loc>https://mirocillik.github.io/infinity-group/categories/starting/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mirocillik.github.io/infinity-group/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://mirocillik.github.io/infinity-group/machinery/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mirocillik.github.io/infinity-group/tags/theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
