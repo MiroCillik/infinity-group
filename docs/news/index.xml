@@ -2,24 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Infinity Group</title>
-    <link>https://mirocillik.github.io/infinity-group/news/</link>
+    <link>https://www.infinitygroup.sk/news/</link>
     <description>Recent content in News on Infinity Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2015 13:50:46 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2019 13:50:46 +0200</lastBuildDate>
     
-	<atom:link href="https://mirocillik.github.io/infinity-group/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.infinitygroup.sk/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Máme nové stránky</title>
-      <link>https://mirocillik.github.io/infinity-group/news/mame-nove-stranky/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      <title>Combicut: rezanie plynovým rotátorom</title>
+      <link>https://www.infinitygroup.sk/news/combicut-plynovy-rotator/</link>
+      <pubDate>Tue, 29 Oct 2019 13:50:46 +0200</pubDate>
       
-      <guid>https://mirocillik.github.io/infinity-group/news/mame-nove-stranky/</guid>
-      <description>Vitajte na našom novom webe In this tutorial, commands that you enter will start with the &amp;ldquo;$&amp;rdquo; prompt. The output will follow. Lines that start with &amp;ldquo;#&amp;rdquo; are comments that I&amp;rsquo;ve added to explain a point. When I show updates to a file, the &amp;ldquo;:wq&amp;rdquo; on the last line means to save the file.
-Here&amp;rsquo;s an example:
-## this is a comment $ echo this is a command this is a command ## edit the file $vi foo.</description>
+      <guid>https://www.infinitygroup.sk/news/combicut-plynovy-rotator/</guid>
+      <description>&lt;p&gt;Na stroji Combicut sme úspešne spustili rezanie plynovým rotátorom s automatickou
+kalibráciou.&lt;/p&gt;</description>
     </item>
     
   </channel>

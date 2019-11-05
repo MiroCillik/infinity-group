@@ -2,23 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Infinity Group</title>
-    <link>https://mirocillik.github.io/infinity-group/categories/</link>
+    <link>https://www.infinitygroup.sk/categories/</link>
     <description>Recent content in Categories on Infinity Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2015 13:50:46 +0200</lastBuildDate>
     
-	<atom:link href="https://mirocillik.github.io/infinity-group/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.infinitygroup.sk/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>starting</title>
-      <link>https://mirocillik.github.io/infinity-group/categories/starting/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>https://mirocillik.github.io/infinity-group/categories/starting/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

@@ -1,4 +1,4 @@
-baseurl = "https://mirocillik.github.io/infinity-group/"
+baseURL = "https://www.infinitygroup.sk/"
 title = "Infinity Group"
 theme = "hugo-universal-theme"
 #themesDir = "../.."
@@ -139,7 +139,7 @@ paginate = 10
     copyright = "Copyright (c) 2018 - 2019, Infinity Group a.s.; all rights reserved."
 
     # Format dates with Go's time formatting
-    date_format = "January 2, 2006"
+    date_format = "2.1.2006"
 
     logo = "img/logo-infinity-7.png"
     address = """<p><strong>INFINITY GROUP a.s.</strong>
@@ -198,7 +198,7 @@ paginate = 10
     enable = true
     icon = "fa fa-file"
     title = "Využite naše služby!"
-    subtitle = "Príjmame zákazky od niekoľko kusov až po milióny."
+    subtitle = "Prijímame zákazky od niekoľko kusov až po milióny."
     link_url = "contact"
     link_text = "Kontaktovať"
 

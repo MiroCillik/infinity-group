@@ -1,6 +1,6 @@
 {{ .Scratch.Set "baseUrl" .Site.BaseURL }}
-{{ $folder := print "/static/img/machinery/" .File.BaseFileName }}
-{{ $albumUrl := print "img/machinery/" .File.BaseFileName }}
+{{ $folder := print "/static/img/" .Page.Type "/" .File.BaseFileName }}
+{{ $albumUrl := print "img/" .Page.Type "/" .File.BaseFileName }}
 <section>
     <div class="image-gallery">
         {{ range readDir $folder }}

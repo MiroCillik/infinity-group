@@ -1,0 +1,71 @@
+- id: home
+  translation: "Domov"
+
+- id: templateBy
+  translation: "Template by"
+
+- id: portedBy
+  translation: "Ported to Hugo by"
+
+- id: contactGoTo
+  translation: "Ísť na kontaktný formulár"
+
+- id: contactAddrTitle
+  translation: "Adresa"
+
+- id: contactTitle
+  translation: "Kontakt"
+
+- id: contactForm
+  translation: "Kontaktný formulár"
+
+- id: contactName
+  translation: "Meno"
+
+- id: contactMail
+  translation: "Email"
+
+- id: contactMessage
+  translation: "Text správy"
+
+- id: contactSend
+  translation: "Odoslať správu"
+
+- id: navHome
+  translation: "na domovskú stránku"
+
+- id: navToggle
+  translation: "Toggle Navigation"
+
+- id: categoriesTitle
+  translation: "Kategórie"
+
+- id: searchTitle
+  translation: "Vyhľadávanie"
+
+- id: tagsTitle
+  translation: "Tagy"
+
+- id: continueReading
+  translation: "Čítať ďalej"
+
+- id: readMore
+  translation: "Viac"
+
+- id: authorBy
+  translation: "Autor"
+
+- id: recentPosts
+  translation: "Posledné príspevky"
+
+- id: aboutUs
+  translation: "O nás"
+
+- id: newer
+  translation: "Novšie"
+
+- id: older
+  translation: "Staršie"
+
+- id: publishedOn
+  translation: "dňa"

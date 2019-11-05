@@ -2,95 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Infinity Group</title>
-    <link>https://mirocillik.github.io/infinity-group/</link>
+    <link>https://www.infinitygroup.sk/</link>
     <description>Recent content on Infinity Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2015 13:50:46 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2019 13:50:46 +0200</lastBuildDate>
     
-	<atom:link href="https://mirocillik.github.io/infinity-group/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.infinitygroup.sk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Máme nové stránky</title>
-      <link>https://mirocillik.github.io/infinity-group/news/mame-nove-stranky/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      <title>Combicut: rezanie plynovým rotátorom</title>
+      <link>https://www.infinitygroup.sk/news/combicut-plynovy-rotator/</link>
+      <pubDate>Tue, 29 Oct 2019 13:50:46 +0200</pubDate>
       
-      <guid>https://mirocillik.github.io/infinity-group/news/mame-nove-stranky/</guid>
-      <description>Vitajte na našom novom webe In this tutorial, commands that you enter will start with the &amp;ldquo;$&amp;rdquo; prompt. The output will follow. Lines that start with &amp;ldquo;#&amp;rdquo; are comments that I&amp;rsquo;ve added to explain a point. When I show updates to a file, the &amp;ldquo;:wq&amp;rdquo; on the last line means to save the file.
-Here&amp;rsquo;s an example:
-## this is a comment $ echo this is a command this is a command ## edit the file $vi foo.</description>
+      <guid>https://www.infinitygroup.sk/news/combicut-plynovy-rotator/</guid>
+      <description>&lt;p&gt;Na stroji Combicut sme úspešne spustili rezanie plynovým rotátorom s automatickou
+kalibráciou.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>CNC ohraňovací lis</title>
-      <link>https://mirocillik.github.io/infinity-group/machinery/ohranovaci-lis/</link>
+      <link>https://www.infinitygroup.sk/machinery/ohranovaci-lis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mirocillik.github.io/infinity-group/machinery/ohranovaci-lis/</guid>
+      <guid>https://www.infinitygroup.sk/machinery/ohranovaci-lis/</guid>
       <description>Ohýbanie dielcov podľa výkresovej dokumentácie zákazníka je zabezpečené CNC hydraulickým ohraňovacím lisom Ermaksan Speed Bend s max. dĺžkou ohybu 4 100 mm a silou 4 000 kN.</description>
     </item>
     
     <item>
       <title>CNC Plazmové rezacie centrum SPLR s rotátorom</title>
-      <link>https://mirocillik.github.io/infinity-group/machinery/plasma/</link>
+      <link>https://www.infinitygroup.sk/machinery/plasma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mirocillik.github.io/infinity-group/machinery/plasma/</guid>
+      <guid>https://www.infinitygroup.sk/machinery/plasma/</guid>
       <description>&lt;p&gt;Vysokovýkonné plazmové rezacie centrum SPLR od Microstep s.r.o. je vhodné pre rezanie plechov, rúr a profilov.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>CNC rezacie centrum CombiCut s vŕtacou hlavou a rotátorom</title>
-      <link>https://mirocillik.github.io/infinity-group/machinery/combicut/</link>
+      <link>https://www.infinitygroup.sk/machinery/combicut/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mirocillik.github.io/infinity-group/machinery/combicut/</guid>
+      <guid>https://www.infinitygroup.sk/machinery/combicut/</guid>
       <description>&lt;p&gt;CNC rezacie centrum Combicut je určené na rezanie materiálu autogénom až do hrúbok 300 mm.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>CNC rezací stroj Oxycut </title>
-      <link>https://mirocillik.github.io/infinity-group/machinery/oxycut/</link>
+      <link>https://www.infinitygroup.sk/machinery/oxycut/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mirocillik.github.io/infinity-group/machinery/oxycut/</guid>
+      <guid>https://www.infinitygroup.sk/machinery/oxycut/</guid>
       <description>&lt;p&gt;Je presné a výkonné zariadenie určené na rezanie kovových materiálov autogénovým horákom.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>CNC vertikálne obrábacie centrum Pinnacle</title>
-      <link>https://mirocillik.github.io/infinity-group/machinery/pinnacle/</link>
+      <link>https://www.infinitygroup.sk/machinery/pinnacle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mirocillik.github.io/infinity-group/machinery/pinnacle/</guid>
+      <guid>https://www.infinitygroup.sk/machinery/pinnacle/</guid>
       <description>Vertikálne obrábacie centrum Pinnacle umožňuje opracovanie dielov s max. rozmerom 680 x 1280 mm. Vysokoproduktívny stroj s upínacím kužeľom ISO 40, zásobníkom náradia na 24 ks, obrobkovou a nástrojovou sondou, dosahuje otáčky vretena až do 10000 ot/min.</description>
     </item>
     
     <item>
       <title>Fiberlaserové rezacie centrum MSF</title>
-      <link>https://mirocillik.github.io/infinity-group/machinery/fiber-laser/</link>
+      <link>https://www.infinitygroup.sk/machinery/fiber-laser/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mirocillik.github.io/infinity-group/machinery/fiber-laser/</guid>
+      <guid>https://www.infinitygroup.sk/machinery/fiber-laser/</guid>
       <description>&lt;p&gt;Fiberlaserové rezacie centrum MSF od výrobcu MicroStep s.r.o. je určené na presné delenie konštrukčnej ocele, nerezu, hliníka a iných reflexných materiálov ako napr. meď a mosadz pevnolátkovým laserom s 5kW zdrojom.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Kontakt</title>
-      <link>https://mirocillik.github.io/infinity-group/contact/</link>
+      <link>https://www.infinitygroup.sk/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mirocillik.github.io/infinity-group/contact/</guid>
+      <guid>https://www.infinitygroup.sk/contact/</guid>
       <description>V prípade akýchkoľvek otázok alebo oznamov využite prosím nasledovný formulár a my Vás budeme kontaktovať.</description>
     </item>
     
     <item>
       <title>Naša Spoločnosť</title>
-      <link>https://mirocillik.github.io/infinity-group/our-company/</link>
+      <link>https://www.infinitygroup.sk/our-company/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mirocillik.github.io/infinity-group/our-company/</guid>
+      <guid>https://www.infinitygroup.sk/our-company/</guid>
       <description>Kto sme? Infinity group, a.s. je výrobcom tvarových výpalkov a detailov pre stavebné a banské mechanizmy, koľajové vozidlá a manipulačnú techniku.
 Čo robíme? Výpalky sú vyrábané podľa výkresovej dokumentácie zákazníka spracované na CNC páliacich strojoch, sú dodávané s odstránenou truskou, opravenými zápalmi a materiálovým atestom. V prípade potreby je možné zabezpečiť ich tryskanie, vŕtanie, ohýbanie, strojné opracovanie či rezanie úkosov pod zvary.
 Kde nás najdete? V novo postavenej hale v areály priemyselného parku v obci Vígľaš s rozlohou 13 000 m2 sú inštalované najmodernejšie technológie na spracovanie plechov, vďaka ktorým je možné dosahovať vysokú produktivitu práce.</description>
@@ -98,20 +97,20 @@ Kde nás najdete? V novo postavenej hale v areály priemyselného parku v obci 
     
     <item>
       <title>Ochrana osobných údajov</title>
-      <link>https://mirocillik.github.io/infinity-group/gdpr/</link>
+      <link>https://www.infinitygroup.sk/gdpr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mirocillik.github.io/infinity-group/gdpr/</guid>
+      <guid>https://www.infinitygroup.sk/gdpr/</guid>
       <description>Vyhlásenie o ochrane osobných údajov Podľa Nariadenia Európskeho parlamentu a Rady (EÚ) 2016 / 679 z 27. apríla 2016 o ochrane fyzických osôb pri spracúvaní osobných údajov a o voľnom pohybe takýchto údajov, ktorým sa zrušuje smernica 95 / 46 / ES (všeobecné nariadenie o ochrane údajov) (ďalej len „nariadenie“) a podľa zákona č. 18 / 2018 Z. z. o ochrane osobných údajov (ďalej len „zákon“).
 Toto vyhlásenie Vám je určené aj v prípade, ak ste zamestnancom nášho zákazníka - odberateľa, ktorý je právnickou osobou alebo živnostníkom a Váš zamestnávateľ Vás určil ako svoju oprávnenú osobu pre jednotlivé oblasti komunikácie týkajúcej sa dodávky našich služieb.</description>
     </item>
     
     <item>
       <title>Priebežný tryskací box RB 2000</title>
-      <link>https://mirocillik.github.io/infinity-group/machinery/tryskanie/</link>
+      <link>https://www.infinitygroup.sk/machinery/tryskanie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mirocillik.github.io/infinity-group/machinery/tryskanie/</guid>
+      <guid>https://www.infinitygroup.sk/machinery/tryskanie/</guid>
       <description>Tryskanie materiálu a výrobkov sa vykonáva automatickým priebežným tryskacím zariadením RB 2000.
 Maximálna šírka tryskaného materiálu 2 000 mm
 Maximálna dĺžka tryskaného materiálu 12 000 mm
@@ -121,19 +120,19 @@ Počet tryskacích hláv 4</description>
     
     <item>
       <title>Produkty</title>
-      <link>https://mirocillik.github.io/infinity-group/products/</link>
+      <link>https://www.infinitygroup.sk/products/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mirocillik.github.io/infinity-group/products/</guid>
+      <guid>https://www.infinitygroup.sk/products/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rovnací lis HRL 400</title>
-      <link>https://mirocillik.github.io/infinity-group/machinery/hrl400/</link>
+      <link>https://www.infinitygroup.sk/machinery/hrl400/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mirocillik.github.io/infinity-group/machinery/hrl400/</guid>
+      <guid>https://www.infinitygroup.sk/machinery/hrl400/</guid>
       <description>Lis HRL 400 je určený pre rovnanie plechov, výpalkov, zvarencov a profilov.
 šírka stola 2000 mm
 dĺžka stola 6000 mm
@@ -143,10 +142,10 @@ sila 4 000 kN</description>
     
     <item>
       <title>Všeobecné obchodné podmienky</title>
-      <link>https://mirocillik.github.io/infinity-group/terms-and-conditions/</link>
+      <link>https://www.infinitygroup.sk/terms-and-conditions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mirocillik.github.io/infinity-group/terms-and-conditions/</guid>
+      <guid>https://www.infinitygroup.sk/terms-and-conditions/</guid>
       <description>Kto sme? Infinity group, a.s. je výrobcom tvarových výpalkov a detailov pre stavebné a banské mechanizmy, koľajové vozidlá a manipulačnú techniku.
 Čo robíme? Výpalky sú vyrábané podľa výkresovej dokumentácie zákazníka spracované na CNC páliacich strojoch, sú dodávané s odstránenou truskou, opravenými zápalmi a materiálovým atestom. V prípade potreby je možné zabezpečiť ich tryskanie, vŕtanie, ohýbanie, strojné opracovanie či rezanie úkosov pod zvary.
 Kde nás najdete? V novo postavenej hale v areály priemyselného parku v obci Vígľaš s rozlohou 13 000 m2 sú inštalované najmodernejšie technológie na spracovanie plechov, vďaka ktorým je možné dosahovať vysokú produktivitu práce.</description>
