@@ -1,7 +1,7 @@
 +++
 title = "Combicut: rezanie plynovým rotátorom"
 date = "2019-10-29T13:50:46+02:00"
-banner = "img/news/combicut.jpg"
+banner = "img/news/combicut-plynovy-rotator/combicut.jpg"
 +++
 
 Na stroji Combicut sme úspešne spustili rezanie plynovým rotátorom s automatickou
