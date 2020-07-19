@@ -1,6 +1,6 @@
 +++
 title = "Prepláštenie skladu - Výzva na predkladanie ponúk"
-date = "2020-07-19T19:50:46+02:00"
+date = "2020-07-20T19:50:46+02:00"
 banner = "img/news/preplastenie-skladu/situacia.png"
 +++
 
