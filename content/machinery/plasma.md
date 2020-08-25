@@ -7,7 +7,7 @@ Vysokovýkonné plazmové rezacie centrum SPLR od Microstep s.r.o. je vhodné pr
 <!--more--> Plazmové rezacie centrum s HiFocus rotačnou hlavou umožňuje delenie materiálu s prípravou technologického úkosu zvarovanej plochy v presnostiach v zmysle normy DIN 2310. Je to mimoriadne produktívna technológia úkosovania hrán do hrúbky 25 mm priamo pri rezaní materiálu.   
 
 
-|Parametre                          |    |
+|Technické údaje                    |    |
 |-----------------------------------|----|
 |Minimálna hrúbka deleného materiálu|2 mm|
 |Maximálna hrúbka deleného materiálu|30 mm|	

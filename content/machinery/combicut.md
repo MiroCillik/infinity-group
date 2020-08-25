@@ -6,7 +6,7 @@ banner = "/img/machinery/combicut/combicut.jpg"
 CNC rezacie centrum Combicut je určené na rezanie materiálu autogénom až do hrúbok 300 mm. <!--more--> Presnosť a kvalita rezu spĺňajú normy STN EN ISO 9013 a DIN 28 206. Na stroji je okrem štyroch priamych horákov osadený aj 5 – osí plynový rotátor pre uhlové rezanie do 45° s automatickou kalibráciou. Presné dodatočné úkosovanie umožňuje skenovacie zariadenie.
 Vŕtacia hlava stroja umožňuje vŕtanie a závitovanie otvorov. Jej využitie je vhodné najmä pri rozmerovo väčších dielcoch.
 
-|Parametre                          |    |
+|Technické údaje                    |    |
 |-----------------------------------|----|
 |Minimálna hrúbka deleného materiálu|5 mm|
 |Maximálna hrúbka deleného materiálu|300 mm|

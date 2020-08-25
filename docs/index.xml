@@ -6,10 +6,19 @@
     <description>Recent content on Infinity Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Mar 2020 19:50:46 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2020 09:50:46 +0200</lastBuildDate>
     
 	<atom:link href="https://www.infinitygroup.sk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Zníženie energetickej náročnosti administratívnej budovy a výrobných hál</title>
+      <link>https://www.infinitygroup.sk/news/preplastenie-skladu/</link>
+      <pubDate>Mon, 20 Jul 2020 09:50:46 +0200</pubDate>
+      
+      <guid>https://www.infinitygroup.sk/news/preplastenie-skladu/</guid>
+      <description>&lt;p&gt;INFINITY GROUP a.s., ako hospodársky subjekt, na ktorý sa vzťahuje § 8 ods. 1 zákona č. 343 / 2015 o verejnom obstarávaní a o zmene a doplnení niektorých zákonov (ďalej len „zákon o verejnom obstarávaní“) realizuje výzvu na súťaž.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Realizácia projektu z fondou EU</title>
@@ -68,21 +77,12 @@ kalibráciou.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>CNC rezací stroj Oxycut </title>
-      <link>https://www.infinitygroup.sk/machinery/oxycut/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.infinitygroup.sk/machinery/oxycut/</guid>
-      <description>&lt;p&gt;Je presné a výkonné zariadenie určené na rezanie kovových materiálov autogénovým horákom.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>CNC vertikálne obrábacie centrum Pinnacle</title>
+      <title>CNC vertikálne obrábacie centrum</title>
       <link>https://www.infinitygroup.sk/machinery/pinnacle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.infinitygroup.sk/machinery/pinnacle/</guid>
-      <description>Vertikálne obrábacie centrum Pinnacle umožňuje opracovanie dielov s max. rozmerom 680 x 1280 mm. Vysokoproduktívny stroj s upínacím kužeľom ISO 40, zásobníkom náradia na 24 ks, obrobkovou a nástrojovou sondou, dosahuje otáčky vretena až do 10000 ot/min.</description>
+      <description>Vertikálne obrábacie centrum LCV 760 umožňuje opracovanie dielov s max. rozmerom 680 x 1280 mm. Vysokoproduktívny stroj s upínacím kužeľom ISO 50, zásobníkom náradia na 24 ks, obrobkovou a nástrojovou sondou, dosahuje otáčky vretena až do 8000 ot/min.</description>
     </item>
     
     <item>
@@ -91,7 +91,7 @@ kalibráciou.&lt;/p&gt;</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.infinitygroup.sk/machinery/fiber-laser/</guid>
-      <description>&lt;p&gt;Fiberlaserové rezacie centrum MSF od výrobcu MicroStep s.r.o. je určené na presné delenie konštrukčnej ocele, nerezu, hliníka a iných reflexných materiálov ako napr. meď a mosadz pevnolátkovým laserom s 5kW zdrojom.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Fiberlaserové rezacie centrum MSF od výrobcu MicroStep s.r.o. je určené na presné delenie konštrukčnej ocele pevnolátkovým laserom s 5kW zdrojom.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -125,16 +125,31 @@ Toto vyhlásenie Vám je určené aj v prípade, ak ste zamestnancom nášho zá
     </item>
     
     <item>
+      <title>Odihľovacia linka Gecam</title>
+      <link>https://www.infinitygroup.sk/machinery/odihlovacia-linka-gecam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.infinitygroup.sk/machinery/odihlovacia-linka-gecam/</guid>
+      <description>&lt;p&gt;Odihľovacia linka bola skonštruovaná tak aby odihľovala kovové výpalky od napáleného materiálu a strusky pomocou brúsnych pásov.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Presný rovnací stroj ARKU FlatMaster 88200</title>
+      <link>https://www.infinitygroup.sk/machinery/rovnaci-stroj-arku/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.infinitygroup.sk/machinery/rovnaci-stroj-arku/</guid>
+      <description>&lt;p&gt;Rovnací stroj FlatMaster 88200 je určený na presné rovnanie dielov, výpalkov, obrobkov.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Priebežný tryskací box RB 2000</title>
       <link>https://www.infinitygroup.sk/machinery/tryskanie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.infinitygroup.sk/machinery/tryskanie/</guid>
       <description>Tryskanie materiálu a výrobkov sa vykonáva automatickým priebežným tryskacím zariadením RB 2000.
-Maximálna šírka tryskaného materiálu 2 000 mm
-Maximálna dĺžka tryskaného materiálu 12 000 mm
-Maximálna výška tryskaného materiálu 400 mm
-Počet tryskacích hláv 4</description>
+   Technické údaje      Maximálna šírka tryskaného materiálu &amp;nbsp; 2 000 mm   Maximálna dĺžka tryskaného materiálu &amp;nbsp; 12 000 mm   Maximálna výška tryskaného materiálu &amp;nbsp; 400 mm   Počet tryskacích hláv &amp;nbsp; 4    </description>
     </item>
     
     <item>
@@ -147,16 +162,22 @@ Počet tryskacích hláv 4</description>
     </item>
     
     <item>
+      <title>Robotizované zváracie pracovisko YASKAWA</title>
+      <link>https://www.infinitygroup.sk/machinery/zvaracie-pracovisko-yaskawa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.infinitygroup.sk/machinery/zvaracie-pracovisko-yaskawa/</guid>
+      <description>&lt;p&gt;Robotizované zváracie pracovisko je určené pre zváranie podskupín predstavkov pre koľajové vozidlá príp. iné zvarence.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Rovnací lis HRL 400</title>
       <link>https://www.infinitygroup.sk/machinery/hrl400/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.infinitygroup.sk/machinery/hrl400/</guid>
       <description>Lis HRL 400 je určený pre rovnanie plechov, výpalkov, zvarencov a profilov.
-šírka stola 2000 mm
-dĺžka stola 6000 mm
-zdvih rovnacieho valca 700 mm
-sila 4 000 kN</description>
+   Technické údaje      šírka stola &amp;nbsp; 2000 mm   dĺžka stola &amp;nbsp; 6000 mm   zdvih rovnacieho valca &amp;nbsp; 700 mm   sila &amp;nbsp; 4000 kN    </description>
     </item>
     
     <item>

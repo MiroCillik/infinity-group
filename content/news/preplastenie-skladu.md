@@ -1,12 +1,11 @@
 +++
-title = "Prepláštenie skladu - Výzva na predkladanie ponúk"
-date = "2020-07-20T19:50:46+02:00"
+title = "Zníženie energetickej náročnosti administratívnej budovy a výrobných hál"
+date = "2020-07-20T09:50:46+02:00"
 banner = "img/news/preplastenie-skladu/situacia.png"
 +++
 
-**INFINITY GROUP a.s.**, ako hospodársky subjekt, na ktorý sa vzťahuje § 8 ods. 1 zákona č. 343 / 2015 o verejnom obstarávaní a o zmene a doplnení niektorých zákonov (ďalej len„zákon o verejnom obstarávaní“) realizuje výzvu na súťaž.
+INFINITY GROUP a.s., ako hospodársky subjekt, na ktorý sa vzťahuje § 8 ods. 1 zákona č. 343 / 2015 o verejnom obstarávaní a o zmene a doplnení niektorých zákonov (ďalej len „zákon o verejnom obstarávaní“) realizuje výzvu na súťaž.
 <!--more-->
-
 Podrobnosti týkajúce sa vypracovania ponuky, sú uvedené v nasledujúcich dokumentoch:
 
 <i class="fa fa-file-text-o"></i>
