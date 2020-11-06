@@ -1,10 +1,10 @@
 +++
 title = "Zníženie energetickej náročnosti administratívnej budovy a výrobných hál"
-date = "2020-07-20T09:50:46+02:00"
+date = "2020-11-06T09:00:00+02:00"
 banner = "img/news/preplastenie-skladu/situacia.png"
 +++
 
-Táto výzva bola zrušená. Uverejnili sme [novú výzvu](/news/preplastenie-skladu-2) 
+Realizujeme výzvu na súťaž. 
 <!--more-->
 
 INFINITY GROUP a.s., ako hospodársky subjekt, na ktorý sa vzťahuje § 8 ods. 1 zákona č. 343 / 2015 o verejnom obstarávaní a o zmene a doplnení niektorých zákonov (ďalej len „zákon o verejnom obstarávaní“) realizuje výzvu na súťaž.
