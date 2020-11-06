@@ -1,7 +1,7 @@
 +++
 title = "Zníženie energetickej náročnosti administratívnej budovy a výrobných hál"
 date = "2020-11-06T09:00:00+02:00"
-banner = "img/news/preplastenie-skladu/situacia.png"
+banner = "img/news/preplastenie-skladu/situacia-3.png"
 +++
 
 Realizujeme výzvu na súťaž. 
