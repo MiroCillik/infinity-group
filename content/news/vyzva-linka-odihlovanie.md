@@ -14,7 +14,7 @@ Podrobnosti výzvy nájdete v nasledujúcich dokumentoch:
 - <i class="fa fa-file-pdf-o">&nbsp;</i> [Príloha č.2 - Návrh na plnenie kritéria](/docs/vyzva-linka-odihlovanie/Priloha-2-LC1-Navrh-na-plnenie-kriteria.pdf)
 - <i class="fa fa-file-pdf-o">&nbsp;</i> [Príloha č.3 - Zmluva o dielo](/docs/vyzva-linka-odihlovanie/Priloha-3-LC1-Zmluva-o-dielo_IG.pdf)
 - <i class="fa fa-file-pdf-o">&nbsp;</i> [Príloha č.4 - Vyhlásenie o subdodavateľoch](/docs/vyzva-linka-odihlovanie/Priloha-4-LC1-Vyhlasenie-o-subdodavateloch.pdf)
-- <i class="fa fa-file-pdf-o">&nbsp;</i> [Príloha č.5 - Zmluva o dielo](/docs/vyzva-linka-odihlovanie/Priloha-5-LC1-Cestne-vyhlasenie-uchadzaca.pdf)
+- <i class="fa fa-file-pdf-o">&nbsp;</i> [Príloha č.5 - Čestné vyhlásenie](/docs/vyzva-linka-odihlovanie/Priloha-5-LC1-Cestne-vyhlasenie-uchadzaca.pdf)
 
 
 <i class="fa fa-file-archive-o">&nbsp;</i> [Balík všetkých dokumentov vo formáte docx](/docs/vyzva-linka-odihlovanie/linka-na-odihlovanie-prilohy-docx.zip)
