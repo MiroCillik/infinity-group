@@ -15,6 +15,9 @@ publishDir = "docs"
 # Define the number of posts per page
 paginate = 10
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [menu]
 
 # Main menu

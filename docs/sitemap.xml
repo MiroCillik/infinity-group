@@ -1,107 +1,65 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.infinitygroup.sk/</loc>
-    <lastmod>2020-11-06T09:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-09T12:00:00+02:00</lastmod>
+  </url><url>
     <loc>https://www.infinitygroup.sk/news/</loc>
-    <lastmod>2020-11-06T09:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-09T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://www.infinitygroup.sk/news/vyzva-obrabacie-centrum-obrobky/</loc>
+    <lastmod>2021-03-09T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://www.infinitygroup.sk/news/vyzva-linka-odihlovanie/</loc>
+    <lastmod>2021-03-09T12:00:00+02:00</lastmod>
+  </url><url>
     <loc>https://www.infinitygroup.sk/news/preplastenie-skladu/</loc>
     <lastmod>2020-11-06T09:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.infinitygroup.sk/news/projekt-eu/</loc>
     <lastmod>2020-03-09T19:50:46+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.infinitygroup.sk/news/vakuova-traverza/</loc>
     <lastmod>2019-11-05T13:50:46+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.infinitygroup.sk/news/combicut-plynovy-rotator/</loc>
     <lastmod>2019-10-29T13:50:46+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.infinitygroup.sk/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.infinitygroup.sk/machinery/ohranovaci-lis/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.infinitygroup.sk/machinery/plasma/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.infinitygroup.sk/machinery/combicut/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.infinitygroup.sk/machinery/pinnacle/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.infinitygroup.sk/machinery/fiber-laser/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.infinitygroup.sk/contact/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.infinitygroup.sk/our-company/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.infinitygroup.sk/gdpr/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.infinitygroup.sk/machinery/odihlovacia-linka-gecam/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.infinitygroup.sk/machinery/rovnaci-stroj-arku/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.infinitygroup.sk/machinery/tryskanie/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.infinitygroup.sk/products/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.infinitygroup.sk/machinery/zvaracie-pracovisko-yaskawa/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.infinitygroup.sk/machinery/hrl400/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.infinitygroup.sk/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.infinitygroup.sk/machinery/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.infinitygroup.sk/terms-and-conditions/</loc>
   </url>
-  
 </urlset>

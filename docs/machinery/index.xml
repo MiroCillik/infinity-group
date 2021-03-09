@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technológie on Infinity Group</title>
     <link>https://www.infinitygroup.sk/machinery/</link>
     <description>Recent content in Technológie on Infinity Group</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.infinitygroup.sk/machinery/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.infinitygroup.sk/machinery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CNC ohraňovací lis</title>
       <link>https://www.infinitygroup.sk/machinery/ohranovaci-lis/</link>
@@ -80,7 +76,7 @@
       
       <guid>https://www.infinitygroup.sk/machinery/tryskanie/</guid>
       <description>Tryskanie materiálu a výrobkov sa vykonáva automatickým priebežným tryskacím zariadením RB 2000.
-   Technické údaje      Maximálna šírka tryskaného materiálu &amp;nbsp; 2 000 mm   Maximálna dĺžka tryskaného materiálu &amp;nbsp; 12 000 mm   Maximálna výška tryskaného materiálu &amp;nbsp; 400 mm   Počet tryskacích hláv &amp;nbsp; 4    </description>
+   Technické údaje      Maximálna šírka tryskaného materiálu  2 000 mm   Maximálna dĺžka tryskaného materiálu  12 000 mm   Maximálna výška tryskaného materiálu  400 mm   Počet tryskacích hláv  4    </description>
     </item>
     
     <item>
@@ -99,7 +95,7 @@
       
       <guid>https://www.infinitygroup.sk/machinery/hrl400/</guid>
       <description>Lis HRL 400 je určený pre rovnanie plechov, výpalkov, zvarencov a profilov.
-   Technické údaje      šírka stola &amp;nbsp; 2000 mm   dĺžka stola &amp;nbsp; 6000 mm   zdvih rovnacieho valca &amp;nbsp; 700 mm   sila &amp;nbsp; 4000 kN    </description>
+   Technické údaje      šírka stola  2000 mm   dĺžka stola  6000 mm   zdvih rovnacieho valca  700 mm   sila  4000 kN    </description>
     </item>
     
   </channel>
