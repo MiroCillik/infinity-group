@@ -1,6 +1,6 @@
 +++
 title = "Inteligentné inovácie v INFINITY GROUP a.s. (Oprava)"
-date = "2021-03-10T12:00:00+02:00"
+date = "2021-03-15T12:00:00+02:00"
 banner = "img/news/vyzva-inteligentne-inovacie/vyzva-inteligentne-inovacie.png"
 +++
 
