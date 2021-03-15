@@ -1,15 +1,17 @@
 +++
-title = "Inteligentné inovácie v INFINITY GROUP a.s."
+title = "Inteligentné inovácie v INFINITY GROUP a.s. (Oprava)"
 date = "2021-03-10T12:00:00+02:00"
 banner = "img/news/vyzva-inteligentne-inovacie/vyzva-inteligentne-inovacie.png"
 +++
 
-Výzva na predkladanie ponúk. 
+Výzva na predkladanie ponúk
+Dátum zverejnenia: 15.3.2021
+Lehota na predkladanie ponúk: 01.04.2021, do 17:00 hod.
 <!--more-->
 
 Podrobnosti výzvy nájdete v nasledujúcich dokumentoch:
 
-- <i class="fa fa-file-word-o">&nbsp;</i> [Výzva na predkladanie ponúk](/docs/vyzva-inteligentne-inovacie/Vyzva-na-predkladanie-ponuk_INFINITY-GROUP.doc)
+- <i class="fa fa-file-word-o">&nbsp;</i> [Výzva na predkladanie ponúk - OPRAVA](/docs/vyzva-inteligentne-inovacie/Vyzva-na-predkladanie-ponuk_INFINITY-GROUP_OPRAVA.doc)
 - <i class="fa fa-file-word-o">&nbsp;</i> [Príloha č.2a - Cenová ponuka](/docs/vyzva-inteligentne-inovacie/priloha_2a.docx)
 - <i class="fa fa-file-word-o">&nbsp;</i> [Príloha č.2b - Cenová ponuka č.2](/docs/vyzva-inteligentne-inovacie/priloha_2b.docx)
 - <i class="fa fa-file-word-o">&nbsp;</i> [Príloha č.3a - Zmluva o dielo](/docs/vyzva-inteligentne-inovacie/priloha_3a.docx)
