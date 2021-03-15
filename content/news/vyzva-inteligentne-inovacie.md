@@ -4,8 +4,10 @@ date = "2021-03-10T12:00:00+02:00"
 banner = "img/news/vyzva-inteligentne-inovacie/vyzva-inteligentne-inovacie.png"
 +++
 
-Výzva na predkladanie ponúk
-Dátum zverejnenia: 15.3.2021
+Výzva na predkladanie ponúk.
+
+Dátum zverejnenia: 15.3.2021.
+
 Lehota na predkladanie ponúk: 01.04.2021, do 17:00 hod.
 <!--more-->
 
