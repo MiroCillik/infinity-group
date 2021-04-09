@@ -1,11 +1,19 @@
 +++
-title = "Obrábacie centrum s robotizáciou nakladania obrobkov"
-date = "2021-03-09T10:00:00+02:00"
+title = "Výzva ukončená - Obrábacie centrum s robotizáciou nakladania obrobkov"
+date = "2021-04-09T10:00:00+02:00"
 banner = "img/news/vyzva-obrabacie-centrum-obrobky/vyzva-obrabacie-centrum-obrobky.png"
 +++
 
-Výzva na predloženie cenovej ponuky. 
+Na základe vyhodnotenia predložených ponúk sa víťazom výzvy stala spoločnosť [MIKRON SLOVAKIA s.r.o](https://www.mikron.sk/)
 <!--more-->
+
+<br/>
+
+Kompletný záznam prieskumu trhu a predložených ponúk:
+- <i class="fa fa-file-pdf-o">&nbsp;</i> [Záznam z prieskumu trhu](/docs/vyzva-obrabacie-centrum-obrobky/Zaznam_z_prieskum_trhu_IG.pdf)
+
+<br/>   
+Dátum zverejnenia výzvy: 9.3.2021
 
 Podrobnosti výzvy nájdete v nasledujúcich dokumentoch:
 
@@ -20,7 +28,7 @@ Podrobnosti výzvy nájdete v nasledujúcich dokumentoch:
 <i class="fa fa-file-archive-o">&nbsp;</i> [Balík všetkých dokumentov vo formáte docx](/docs/vyzva-obrabacie-centrum-obrobky/obrabacie-centrum-obrobky-docx.zip)
 
 <br/>
-Veríme, že sa súťaže  zúčastníte a predložíte akceptovateľnú ponuku na požadovaný predmet zákazky v súlade s výzvou na predkladanie ponúk
+Ďakujeme všetkým zúčastneným za záujem a predloženie ponuky.
 
 S pozdravom
 						
