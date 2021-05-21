@@ -1,17 +1,29 @@
 +++
-title = "Inteligentné inovácie v INFINITY GROUP a.s. (Oprava)"
-date = "2021-03-15T12:00:00+02:00"
+title = "Vyhodnotenie ponúk - Inteligentné inovácie v INFINITY GROUP a.s."
+date = "2021-05-21T09:00:00+02:00"
 banner = "img/news/vyzva-inteligentne-inovacie/vyzva-inteligentne-inovacie.png"
 +++
 
-Výzva na predkladanie ponúk.
+Záznam z prieskumu trhu na predloženú výzvu a vyhodnotenie ponúk dodávateľov.
 
-Dátum zverejnenia: 15.3.2021.
+Dátum zverejnenia vyhodnotenia: 21.5.2021.
 
-Lehota na predkladanie ponúk: 01.04.2021, do 17:00 hod.
 <!--more-->
 
-Podrobnosti výzvy nájdete v nasledujúcich dokumentoch:
+<br/>
+
+### Záznam z prieskumu trhu
+Kompletný záznam prieskumu trhu, predložených ponúk a výsledkov
+- <i class="fa fa-file-pdf-o">&nbsp;</i> [Záznam z prieskumu trhu, časť 1.](/docs/vyzva-inteligentne-inovacie/Zaznam_z_prieskum_trhu_1.pdf)
+- <i class="fa fa-file-pdf-o">&nbsp;</i> [Záznam z prieskumu trhu, časť 2.](/docs/vyzva-inteligentne-inovacie/Zaznam_z_prieskum_trhu_2.pdf)
+
+<br/>
+
+### Podrobnosti výzvy 
+
+Dátum zverejnenia výzvy: 15.3.2021.
+
+Lehota na predkladanie ponúk: 01.04.2021, do 17:00 hod.
 
 - <i class="fa fa-file-word-o">&nbsp;</i> [Výzva na predkladanie ponúk - OPRAVA](/docs/vyzva-inteligentne-inovacie/Vyzva-na-predkladanie-ponuk_INFINITY-GROUP_OPRAVA.doc)
 - <i class="fa fa-file-word-o">&nbsp;</i> [Príloha č.2a - Cenová ponuka](/docs/vyzva-inteligentne-inovacie/priloha_2a.docx)
