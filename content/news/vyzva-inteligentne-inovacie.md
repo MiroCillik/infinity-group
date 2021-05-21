@@ -1,12 +1,12 @@
 +++
 title = "Vyhodnotenie ponúk - Inteligentné inovácie v INFINITY GROUP a.s."
-date = "2021-05-21T09:00:00+02:00"
+date = "2021-05-20T09:00:00+02:00"
 banner = "img/news/vyzva-inteligentne-inovacie/vyzva-inteligentne-inovacie.png"
 +++
 
 Záznam z prieskumu trhu na predloženú výzvu a vyhodnotenie ponúk dodávateľov.
 
-Dátum zverejnenia vyhodnotenia: 21.5.2021.
+Dátum zverejnenia vyhodnotenia: 20.5.2021.
 
 <!--more-->
 
