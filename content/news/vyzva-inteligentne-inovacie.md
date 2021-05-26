@@ -37,7 +37,7 @@ Lehota na predkladanie ponúk: 01.04.2021, do 17:00 hod.
 
 Dátum zverejnenia: 10.3.2021.
 
-Lehota na predkladanie ponúk: 01.04.2021, do 17:00 hod.
+Lehota na predkladanie ponúk: 25.03.2021, do 17:00 hod.
 
 - <i class="fa fa-file-word-o">&nbsp;</i> [Výzva na predkladanie ponúk](/docs/vyzva-inteligentne-inovacie/Vyzva-na-predkladanie-ponuk_INFINITY-GROUP.doc)
 - <i class="fa fa-file-word-o">&nbsp;</i> [Príloha č.2a - Cenová ponuka](/docs/vyzva-inteligentne-inovacie/priloha_2a.docx)
