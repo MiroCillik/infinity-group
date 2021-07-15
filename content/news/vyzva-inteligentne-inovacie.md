@@ -15,6 +15,7 @@ Dátum zverejnenia vyhodnotenia: 20.5.2021.
 ### Záznam z prieskumu trhu
 Kompletný záznam prieskumu trhu, predložených ponúk a výsledkov
 - <i class="fa fa-file-pdf-o">&nbsp;</i> [Záznam z prieskumu trhu, časť 1.](/docs/vyzva-inteligentne-inovacie/Zaznam_z_prieskumu_trhu_1.pdf)
+- <i class="fa fa-file-pdf-o">&nbsp;</i> [Záznam z prieskumu trhu, časť 1. OPRAVA](/docs/vyzva-inteligentne-inovacie/Zaznam_z_prieskumu_trhu_1-OPRAVA.pdf)
 - <i class="fa fa-file-pdf-o">&nbsp;</i> [Záznam z prieskumu trhu, časť 2.](/docs/vyzva-inteligentne-inovacie/Zaznam_z_prieskumu_trhu_2.pdf)
 
 <br/>
