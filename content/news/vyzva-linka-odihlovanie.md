@@ -1,11 +1,17 @@
 +++
-title = "Robotizovaná linka na odihlenie dielov po rezaní laserom, plazmou a kyslík acetylénom"
+title = "Výzva zrušená - Robotizovaná linka na odihlenie dielov po rezaní laserom, plazmou a kyslík acetylénom"
 date = "2021-03-09T10:00:00+02:00"
 banner = "img/news/vyzva-linka-odihlovanie/vyzva-linka-odihlovanie.png"
 +++
 
-Výzva na predloženie cenovej ponuky. 
+Výzva bola zrušená. 
+
+Z dôvodu, že v lehote na predkladanie ponúk nebola predložená žiadna ponuka. 
+Verejný obstarávateľ vyhlási novú verejnú súťaž na predmet zákazky.
 <!--more-->
+
+Oznámenie o zrušení postupu:
+- <i class="fa fa-file-pdf-o">&nbsp;</i> [Oznámenie o zrušení VO](/docs/vyzva-linka-odihlovanie/Oznamenie_o_zruseni_VO.pdf)
 
 Podrobnosti výzvy nájdete v nasledujúcich dokumentoch:
 
