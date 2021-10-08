@@ -1,21 +1,36 @@
 +++
-title = "Výzva zrušená - Robotizovaná linka na odihlenie dielov po rezaní laserom, plazmou a kyslík acetylénom"
-date = "2021-03-09T10:00:00+02:00"
+title = "Robotizovaná linka na odihlenie dielov po rezaní laserom, plazmou a kyslík acetylénom"
+date = "2021-07-30T10:00:00+02:00"
 banner = "img/news/vyzva-linka-odihlovanie/vyzva-linka-odihlovanie.png"
 +++
 
-Výzva bola zrušená. 
+Záznam z prieskumu trhu na predloženú výzvu a vyhodnotenie ponúk dodávateľov.
 
-Z dôvodu, že v lehote na predkladanie ponúk nebola predložená žiadna ponuka. 
-Verejný obstarávateľ vyhlási novú verejnú súťaž na predmet zákazky.
+Dátum zverejnenia vyhodnotenia: 8.10.2021.
+
 <!--more-->
 
-Oznámenie o zrušení postupu:
+<br/>
+
+### Záznam z prieskumu trhu
+Kompletný záznam prieskumu trhu, predložených ponúk a výsledkov
+- <i class="fa fa-file-pdf-o">&nbsp;</i> [Záznam z prieskumu trhu](/docs/vyzva-linka-odihlovanie/LC_1_Zaznam_z_prieskumu_trhu.pdf)
+
+<br/>
+
+<!-- Výzva bola zrušená. --> 
+
+<!-- Z dôvodu, že v lehote na predkladanie ponúk nebola predložená žiadna ponuka. 
+Verejný obstarávateľ vyhlási novú verejnú súťaž na predmet zákazky. -->
+
+<!-- Oznámenie o zrušení postupu:
 - <i class="fa fa-file-pdf-o">&nbsp;</i> [Oznámenie o zrušení VO](/docs/vyzva-linka-odihlovanie/Oznamenie_o_zruseni_VO.pdf)
+-->
 
-Podrobnosti výzvy nájdete v nasledujúcich dokumentoch:
 
-- <i class="fa fa-file-pdf-o">&nbsp;</i> [Výzva na predloženie cenovej ponuky](/docs/vyzva-linka-odihlovanie/Vyzva_LC1_IG.pdf)
+### Podrobnosti výzvy:
+
+- <i class="fa fa-file-pdf-o">&nbsp;</i> [Výzva na predloženie cenovej ponuky](/docs/vyzva-linka-odihlovanie/Vyzva_LC1_IG_2.pdf)
 - <i class="fa fa-file-pdf-o">&nbsp;</i> [Príloha č.1 - Opis predmetu zakázky - Robotizovaná linka na odihlenie](/docs/vyzva-linka-odihlovanie/Priloha-1-LC1-Opis-predmetu-zakazky-Robotizovana-linka-odihlenie.pdf)
 - <i class="fa fa-file-pdf-o">&nbsp;</i> [Príloha č.2 - Návrh na plnenie kritéria](/docs/vyzva-linka-odihlovanie/Priloha-2-LC1-Navrh-na-plnenie-kriteria.pdf)
 - <i class="fa fa-file-pdf-o">&nbsp;</i> [Príloha č.3 - Zmluva o dielo](/docs/vyzva-linka-odihlovanie/Priloha-3-LC1-Zmluva-o-dielo_IG.pdf)
