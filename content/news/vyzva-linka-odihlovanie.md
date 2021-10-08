@@ -1,5 +1,5 @@
 +++
-title = "Robotizovaná linka na odihlenie dielov po rezaní laserom, plazmou a kyslík acetylénom"
+title = "VYHODNOTENIE PONÚK - Robotizovaná linka na odihlenie dielov po rezaní laserom, plazmou a kyslík acetylénom"
 date = "2021-07-30T10:00:00+02:00"
 banner = "img/news/vyzva-linka-odihlovanie/vyzva-linka-odihlovanie.png"
 +++
