@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.infinitygroup.sk/</loc>
-    <lastmod>2022-12-15T10:50:46+02:00</lastmod>
+    <lastmod>2023-05-29T09:50:46+02:00</lastmod>
   </url><url>
     <loc>https://www.infinitygroup.sk/news/</loc>
-    <lastmod>2022-12-15T10:50:46+02:00</lastmod>
+    <lastmod>2023-05-29T09:50:46+02:00</lastmod>
+  </url><url>
+    <loc>https://www.infinitygroup.sk/news/nove-produkty/</loc>
+    <lastmod>2023-05-29T09:50:46+02:00</lastmod>
   </url><url>
     <loc>https://www.infinitygroup.sk/news/projekt-eu-robotizacia-2/</loc>
     <lastmod>2022-12-15T10:50:46+02:00</lastmod>
@@ -53,6 +56,8 @@
   </url><url>
     <loc>https://www.infinitygroup.sk/machinery/fiber-laser/</loc>
   </url><url>
+    <loc>https://www.infinitygroup.sk/products/hlavny-priecnik/</loc>
+  </url><url>
     <loc>https://www.infinitygroup.sk/contact/</loc>
   </url><url>
     <loc>https://www.infinitygroup.sk/our-company/</loc>
@@ -61,9 +66,13 @@
   </url><url>
     <loc>https://www.infinitygroup.sk/machinery/odihlovacia-linka-gecam/</loc>
   </url><url>
+    <loc>https://www.infinitygroup.sk/products/pozdlznik/</loc>
+  </url><url>
     <loc>https://www.infinitygroup.sk/machinery/rovnaci-stroj-arku/</loc>
   </url><url>
     <loc>https://www.infinitygroup.sk/machinery/tryskanie/</loc>
+  </url><url>
+    <loc>https://www.infinitygroup.sk/products/</loc>
   </url><url>
     <loc>https://www.infinitygroup.sk/products/</loc>
   </url><url>
@@ -71,10 +80,14 @@
   </url><url>
     <loc>https://www.infinitygroup.sk/machinery/hrl400/</loc>
   </url><url>
+    <loc>https://www.infinitygroup.sk/products/sprihadlova-skrina/</loc>
+  </url><url>
     <loc>https://www.infinitygroup.sk/tags/</loc>
   </url><url>
     <loc>https://www.infinitygroup.sk/machinery/</loc>
   </url><url>
     <loc>https://www.infinitygroup.sk/terms-and-conditions/</loc>
+  </url><url>
+    <loc>https://www.infinitygroup.sk/products/celnik/</loc>
   </url>
 </urlset>
