@@ -11,5 +11,5 @@ V sekcii [Produkty](/products) nájdete nové produkty spločnosti.
 #### Produktové listy:
 - <i class="fa fa-file-pdf-o">&nbsp;</i> [Čelník](/docs/products/celnik.pdf)
 - <i class="fa fa-file-pdf-o">&nbsp;</i> [Hlavný priečnik](/docs/products/hlavny-priecnik.pdf)
-- <i class="fa fa-file-pdf-o">&nbsp;</i> [Pozdĺžnik](/docs/products/pozdlnik.pdf)
+- <i class="fa fa-file-pdf-o">&nbsp;</i> [Pozdĺžnik](/docs/products/pozdlznik.pdf)
 - <i class="fa fa-file-pdf-o">&nbsp;</i> [Sprihadlová skriňa](/docs/products/spriahadlova-skrina.pdf)
