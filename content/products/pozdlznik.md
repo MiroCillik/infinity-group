@@ -13,4 +13,4 @@ banner = "img/products/pozdlznik/pozdlznik.png"
 <br/>
 
 #### Produktový list:
-- <i class="fa fa-file-pdf-o">&nbsp;</i> [Pozdĺžnik](/docs/products/pozdlnik.pdf)
+- <i class="fa fa-file-pdf-o">&nbsp;</i> [Pozdĺžnik](/docs/products/pozdlznik.pdf)
